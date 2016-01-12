@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+use_frameworks!
+target "ReactvieCocoaTest" do
+pod 'ReactiveCocoa', '~> 4.0.4-alpha-4'
+end
